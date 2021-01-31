@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dishank.jpg
   address: >
     <p>dishankbansal09@gmail.com</p>
 
