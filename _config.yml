@@ -42,12 +42,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: dishank-b# your GitHub user name
-twitter_username: theshank9# your Twitter handle
-linkedin_username: imdishank# your LinkedIn user name
+github_username: dishank-b # your GitHub user name
+twitter_username: theshank9 # your Twitter handle
+linkedin_username: imdishank # your LinkedIn user name
 scholar_userid: OxQx8A8AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: theshank# your Medium username
+medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate

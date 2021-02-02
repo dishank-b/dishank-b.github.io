@@ -15,13 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Masters Student at [Mila](https://mila.quebec/en/) and University of Montreal working on robot learning under supervision of Prof. Liam Paull. 
-My short term reserach interest is making deep learning methods for robotics probabilistic. 
+I am a MSc Student in Computer Science at [Mila](https://mila.quebec/en/) and University of Montreal. I work on robot learning at [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/). 
+My current reserach vision is to leverage bayesian deep learning methods for robotics as to make a probabilistic deep robotics stack.    
 
-Before joining as masters student, I was an intern for a year under Prof. Liam Paull. Before that I was undergraduate student at IIT Kharagpur, where I spent most of my time
-at [AGV](http://www.agv.iitkgp.ac.in/) working on perception and embbeded-control systems for autonomous vehicles.
+Before joining as Master's student, I was an intern for a year under Prof. Liam Paull. Before that I was undergraduate student at IIT Kharagpur, where I spent all of my time
+at [AGV](http://www.agv.iitkgp.ac.in/) under supervision of Prof. Debashish Chakravarty working on perception and embbeded-control systems for autonomous vehicles.
 
-I am a avid chess player (not professionally). 
+I am a avid chess player (not professionally).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

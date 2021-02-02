@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: July, 2019
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Starting internship at [Mila](https://mila.quebec/en/) under [Prof. Liam Paull](https://liampaull.ca/), moving to Montreal :airplane: 

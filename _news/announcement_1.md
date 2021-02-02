@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Sept, 2020
 inline: true
 ---
 
-A simple inline announcement.
+Starting MSc at [Mila](https://mila.quebec/en/) under [Prof. Liam Paull](https://liampaull.ca/)
+ 
