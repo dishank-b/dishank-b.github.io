@@ -4,5 +4,5 @@ date: July, 2020
 inline: true
 ---
 
-:google-scholar: Paper accepted at [AI for Autonomous Driving](https://sites.google.com/view/aiad2020) Workshop at ICML 2020. 
+:page_facing_up: Paper accepted at [AI for Autonomous Driving](https://sites.google.com/view/aiad2020) Workshop at ICML 2020. 
  
