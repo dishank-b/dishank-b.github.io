@@ -4,5 +4,5 @@ date: Sept, 2020
 inline: true
 ---
 
-Starting MSc at [Mila](https://mila.quebec/en/) under [Prof. Liam Paull](https://liampaull.ca/)
+:graduation-cap: Starting MSc at [Mila](https://mila.quebec/en/) under [Prof. Liam Paull](https://liampaull.ca/)
  

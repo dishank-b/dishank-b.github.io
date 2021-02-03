@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a MSc Student in Computer Science at [Mila](https://mila.quebec/en/) and University of Montreal. I work on robot learning at [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/). 
+Bonjour! I am a :graduation-cap: **MSc Student** in Computer Science at [Mila](https://mila.quebec/en/) and University of Montreal. I work on robot learning at [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/). 
 My current reserach vision is to leverage bayesian deep learning methods for robotics as to make a probabilistic deep robotics stack.    
 
 Before joining as Master's student, I was an intern for a year under Prof. Liam Paull. Before that I was undergraduate student at IIT Kharagpur, where I spent all of my time
