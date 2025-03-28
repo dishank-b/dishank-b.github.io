@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Namaste! Bonjour! I am a Research Engineer at [UK AISI](www.aisi.gov.uk) working on AI Agents and post-training LLMs. Previously, I was an AI Resident at **Meta AI (FAIR)** working with [Brandon Amos](http://bamos.github.io/), [Ricky Chen](rtqichen.github.io) and [Mustafa Mukadam](https://www.mustafamukadam.com/) on reinforcement learning and task-based representation learning. Currently, my work focuses on capability elicitation of LLM agents via post-training and other techniques. My broader interests lie in scalable and generalizable agents.
+Namaste! Bonjour! I am a Research Engineer at [UK AISI](http://aisi.gov.uk) working on AI Agents and post-training LLMs. Previously, I was an AI Resident at **Meta AI (FAIR)** working with [Brandon Amos](http://bamos.github.io/), [Ricky Chen](rtqichen.github.io) and [Mustafa Mukadam](https://www.mustafamukadam.com/) on reinforcement learning and task-based representation learning. Currently, my work focuses on capability elicitation of LLM agents via post-training and other techniques. My broader interests lie in scalable and generalizable agents.
 
 I completed my **Master's** in AI from [Mila](https://mila.quebec/en/) and University of Montreal, where I worked on robot learning and Bayesian deep learning at [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) under the supervision of [Prof. Liam Paull](https://liampaull.ca/).  
     
